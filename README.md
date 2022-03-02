@@ -1,4 +1,4 @@
--some guy who is ok at programming
+Some guy who is ok at programming
 
 <!---
 CarcusMhau/CarcusMhau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
